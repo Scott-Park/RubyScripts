@@ -46,7 +46,8 @@ average of time per request: 116.25630000000001 ms(milliseconds)
 ```
 
 ## Dependency
-For using this script, you should be require ab binary on your testing machine and target machine must be running the Apache server.<br>
+For using this script, you should be require ab binary on your testing machine and target machine must be running the Apache server.
+<br>My ruby version is **ruby 2.3.1p112**
 
 **[Ubuntu]**
 
